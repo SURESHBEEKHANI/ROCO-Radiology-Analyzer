@@ -8,7 +8,7 @@ requirements.txt – List of project dependencies.
 LICENSE – MIT License file governing the use of the repository.
 .gitignore – Configuration file to exclude unnecessary files from version control.
 
-###Technical Capabilities
+### Technical Capabilities
 
 Image Processing – Uses PIL.Image to handle multiple formats (PNG, JPG, JPEG).
 AI Analysis – Integrates groq.Groq client for LLaMA model inference.
@@ -16,7 +16,7 @@ PDF Generation – Implements reportlab for creating structured radiology report
 Environment Management – Utilizes dotenv for secure API key configuration.
 
 
-###Key functions in app.py:
+### Key functions in app.py:
 
 configure_application() – Initializes and configures Streamlit settings.
 generate_radiology_report() – Manages AI-based radiology analysis.
