@@ -1,4 +1,4 @@
-## **Radiology Analyzer (ROCO)*
+## **Radiology Analyzer **
 
 This repository contains a Python-based web application for AI-powered radiology image analysis, built using Streamlit and Groq AI. The core application logic is implemented in app.py.
 
